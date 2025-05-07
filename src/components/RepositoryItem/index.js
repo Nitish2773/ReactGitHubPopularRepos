@@ -1,7 +1,7 @@
 // Write your code here
 import './index.css'
 
-const RepostoryItem = props => {
+const RepositoryItem = props => {
   const {repositoryDetails} = props
   const {
     name,
@@ -45,4 +45,4 @@ const RepostoryItem = props => {
   )
 }
 
-export default RepostoryItem
+export default RepositoryItem
